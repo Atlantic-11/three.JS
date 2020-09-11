@@ -1,5 +1,7 @@
 # my-project
-
+ ```
+    学习three.js,创建第一个场景,渲染模型进场景
+ ```
 ## Project setup
 ```
 npm install
